@@ -1,3 +1,3 @@
-## About Page
-
-My first page
+---
+title: "About"
+permalink: /about/
