@@ -126,6 +126,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/liuuuk311"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://github.com/liuuuk311"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -287,7 +290,7 @@ defaults:
       layout: single
       author_profile: true
 
-      
+
   # _posts
   - scope:
       path: ""
