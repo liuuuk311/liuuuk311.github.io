@@ -2,8 +2,8 @@
 title: "My name is Luca"
 permalink: /about/
 ---
-I study Computer Science at Univeristy of Milano-Bicocca, in Milan, Italy.
+I live in Milan, Italy and I study Computer Science at the University of Milano-Bicocca.
 
-Since when I was young I wanted to understand how things work. This brought me to study Computer Science because I wanted to understand how computers and internet work.
+Since when I was young I wanted to understand how things work. This brought me to study Computer Science because I wanted to understand how computers and the internet worked.
 
-But there's always something new to learn. In fact, now I would like to learn more about data science.
+There's always something new to learn. I'm currently learning more about Data Science and Machine Learning.
