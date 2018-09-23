@@ -284,7 +284,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-
+  university:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
    # _pages

@@ -1,7 +1,7 @@
 ---
-title: "Radio Bicocca App"
+title: "Crowd Simulation"
 excerpt: "An Android app to listen to my University's Radio"
-permalink: "/portfolio/radio-bicocca-app/"
+permalink: "/university/crowd-simulation/"
 date: '2018-03-01'
 header:
   teaser: /assets/images/portfolio/radio_bicocca_app/logo.gif
