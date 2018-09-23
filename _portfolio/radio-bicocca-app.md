@@ -10,8 +10,8 @@ sidebar:
     image: /assets/images/portfolio/radio_bicocca_app/logo.gif
     image_alt: "logo"
     text: "Android Developer"
-  - title: "Responsibilities"
-    text: "Developing the app"
+  - title: "Technology used"
+    text: "Android Studio, Firebase"
 gallery:
   - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
     image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
@@ -24,7 +24,11 @@ gallery:
     alt: "Radio Bicocca App Screenshot 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+[Radio Bicocca](http://www.radiobicocca.it/) it's the Web Radio of my University. You could listen to the radio just on their website, this motivated me to build an Android App that lets you listen to the University's radio. 
+
+Back then I was also interested to learn how to develop Android apps. So, I started with a Google sample app, reading the code and try to figure out how the code worked.
+
+I spent my spare time for a couple month developing this app. When I got a working demo, I contacted a friend who was working at Radio Bicocca to get some feedback. With his feedback, I spent about three weeks to improve the app and then I came back with a new verision with a better UI.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
