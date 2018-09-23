@@ -4,7 +4,7 @@ excerpt: "An Android app to listen to my University's Radio"
 permalink: "/portfolio/test/"
 date: '2018-03-01'
 header:
-  teaser: http://placehold.it/350x250
+  teaser: /assets/images/portfolio/radio_bicocca_app/logo.gif
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/radio_bicocca_app/logo.gif
@@ -24,7 +24,7 @@ gallery:
     alt: "Radio Bicocca App Screenshot 3"
 ---
 
-[Radio Bicocca](http://www.radiobicocca.it/) it's the Web Radio of my University. You could listen to the radio just on their website, this motivated me to build an Android App that lets you listen to the University's radio.
+[Radio Bicocca](http://www.radiobicocca.it/) it's the Web Radio of my University. You could listen to the radio just on their website but they didn't have an app, this motivated me to build an Android App that lets you listen to the University's radio.
 
 Back then I was also interested to learn how to develop Android apps. So, I started with a Google sample app, reading the code and try to figure out how the code worked.
 
