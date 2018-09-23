@@ -1,9 +1,9 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Radio Bicocca App"
+excerpt: "An Android app to listen to my University's Radio"
 permalink: "/portfolio/test/"
+date: '2018-03-01'
 header:
-  image: http://placehold.it/350x250
   teaser: http://placehold.it/350x250
 sidebar:
   - title: "Role"
