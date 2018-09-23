@@ -13,14 +13,14 @@ sidebar:
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: https://via.placeholder.com/350x150
+  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
+    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: https://via.placeholder.com/350x150
+  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_2.jpg
+    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_2.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: https://via.placeholder.com/350x150
+  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_3.jpg
+    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_3.jpg
     alt: "placeholder image 3"
 ---
 
