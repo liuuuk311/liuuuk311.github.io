@@ -28,7 +28,7 @@ gallery:
 
 Back then I was also interested to learn how to develop Android apps. So, I started with a Google sample app, reading the code and try to figure out how the code worked.
 
-I spent my spare time for a couple month developing this app. When I got a working demo, I contacted a friend who was working at Radio Bicocca to get some feedback. With his feedback, I spent about three weeks to improve the app and then I came back with a new verision with a better UI.
+I spent my spare time for a couple month developing this app. When I got a working demo, I contacted a friend who was working at Radio Bicocca to get some feedback. With his feedback, I spent about three weeks to improve the app and then I came back with a new version with a better UI.
 
 {% include gallery caption="These are some of the app's screenshots." %}
 
