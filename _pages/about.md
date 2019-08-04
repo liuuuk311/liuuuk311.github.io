@@ -3,7 +3,9 @@ title: "Hi, my name's Luca"
 permalink: /about/
 ---
 I'm a professional Data Integration Consultant and a responsible freelancer.
-I recently graduated in Computer Science, where I learned different subjects, such as Machine Learning, Computer Vision, and of course programming in general. Plus, coding has always been my passion, so I'm thrilled to help you out with your project. 
+I recently graduated in Computer Science, where I learned different subjects, such as Machine Learning, Computer Vision, and of course programming in general. 
+
+Coding has always been my passion, so I'm thrilled to help you out with your project. 
 
 During my career, I worked on several projects. Here are some of the most recent ones:
 * Designed a responsive website for a professional psychologist
