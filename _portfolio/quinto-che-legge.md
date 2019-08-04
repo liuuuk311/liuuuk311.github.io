@@ -21,9 +21,9 @@ No specification was given for this project.  I came up with a clean and intuiti
 
 Here I share some screenshot of the website:
 
-{% include figure image_path="/assets/images/quinto_che_legge/Screenshot_1.png" alt="this is a placeholder image" caption="The home page with a slide show." %}
-{% include figure image_path="/assets/images/quinto_che_legge/Screenshot_2.png" alt="this is a placeholder image" caption="The about page." %}
-{% include figure image_path="/assets/images/quinto_che_legge/Screenshot_3.png" alt="this is a placeholder image" caption="The conctact us page." %}
+{% include figure image_path="/assets/images/portfolio/quinto_che_legge/Screenshot_1.png" alt="Home page" caption="The home page with a slide show." %}
+{% include figure image_path="/assets/images/portfolio/quinto_che_legge/Screenshot_2.png" alt="About page" caption="The about page." %}
+{% include figure image_path="/assets/images/portfolio/quinto_che_legge/Screenshot_3.png" alt="Contact us page" caption="The conctact us page." %}
 
 
 ## Features
