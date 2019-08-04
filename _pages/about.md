@@ -10,11 +10,12 @@ Coding has always been my passion, so I'm thrilled to help you out with your pro
 During my career, I worked on several projects. If you want to know more about my past projects, visit my portfolio page. 
 Please feel free to contact me or visit my LinkedIn profile, if you would like to have more info. 
 
-As you can see, I have a pretty broad skill set, and I'm always ready for new challenging projects.
+I'm always ready for new challenging projects, and I'm prepared to learn new things.
 
 Here's a partial list of programming languages I know:
 * Python
 * JavaScript (jQuery, Node.js)
 * HTML5 & CSS3
 * SQL
+* MongoDB
 
