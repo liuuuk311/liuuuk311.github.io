@@ -4,10 +4,10 @@ excerpt: "A Telegram bot that analyzes the new sentiment for a given newspaper a
 permalink: "/portfolio/sentiment_bot/"
 date: '2018-04-01'
 header:
-  teaser: /assets/images/portfolio/sentiment_bot/logo.gif
+  teaser: /assets/images/portfolio/sentiment_bot/logo.png
 sidebar:
   - title: "Role"
-    image: /assets/images/portfolio/sentiment_bot/logo.gif
+    image: /assets/images/portfolio/sentiment_bot/logo.png
     image_alt: "logo"
     text: "Developer"
   - title: "Technology used"
@@ -29,7 +29,7 @@ For this project, I used Python to develop the server. Using a library, I could 
 
 You can send any link to the bot; it will parse it, and IBM Watson will tell the sentiment prediction. Then the bot will wrap the outcome in a nice message.  
 
-{% include gallery caption="These are some of the app's screenshots." %}
+{% include gallery caption="These are some screenshot of the bot." %}
 
 ## Features
 * It parses any website
