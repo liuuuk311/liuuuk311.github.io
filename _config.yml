@@ -107,9 +107,9 @@ analytics:
 author:
   name             : "Luca"
   avatar           : /assets/images/me.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science student, aspiring Data Scientist, traveller and music lover"
+  bio              : "Data Integration Consultant and Computer Science student, aspiring Full Stack Developer, I ❤️ coding, travelling, photography and listen to almost all kinds of music. "
   location         : "Milan, Italy"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
