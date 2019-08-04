@@ -12,7 +12,7 @@ sidebar:
     text: "Web Developer"
   - title: "Technology used"
     text: "HTML5, custom CSS3"
-  gallery:
+gallery:
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
     image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
     alt: "Homepage"
