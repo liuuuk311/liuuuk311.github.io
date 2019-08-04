@@ -2,7 +2,7 @@
 title: "Static website"
 excerpt: "Designed and developed a static website using HTML5 and CSS3 for an NGO."
 permalink: "/portfolio/quinto-che-legge/"
-date: '2018-01-01'
+date: '2017-11-01'
 header:
   teaser: /assets/images/portfolio/quinto_che_legge/logo.png
 sidebar:
@@ -15,13 +15,13 @@ sidebar:
   gallery:
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
     image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
-    alt: "Radio Bicocca App Screenshot 1"
+    alt: "Homepage"
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_2.jpg
     image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_2.jpg
-    alt: "Radio Bicocca App Screenshot 2"
+    alt: "Support us page"
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_3.jpg
     image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_3.jpg
-    alt: "Radio Bicocca App Screenshot 3"
+    alt: "Contact us"
 ---
 *Warning: This is project is not public available anymore.* 
 

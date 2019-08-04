@@ -1,7 +1,7 @@
 ---
 title: "News Sentiment Bot"
 excerpt: "A Telegram bot that analyzes the new sentiment for a given newspaper article"
-permalink: "/portfolio/sentiment_bot/"
+permalink: "/portfolio/sentiment-bot/"
 date: '2018-04-01'
 header:
   teaser: /assets/images/portfolio/sentiment_bot/logo.png
