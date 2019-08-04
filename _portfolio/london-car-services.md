@@ -4,7 +4,7 @@ excerpt: "Set up and activily maintain a Wordpress website for a UK private tran
 permalink: "/portfolio/radio-bicocca-app/"
 date: '2018-09-01'
 header:
-  teaser: /assets/images/portfolio/radio_bicocca_app/logo.gif
+  teaser: /assets/images/portfolio/london_car_services/car-service.gif
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/radio_bicocca_app/logo.gif
