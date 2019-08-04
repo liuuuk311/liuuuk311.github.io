@@ -1,13 +1,13 @@
 ---
 title: "Wordpress for a private transport company"
 excerpt: "Set up and activily maintain a Wordpress website for a UK private transport company"
-permalink: "/portfolio/radio-bicocca-app/"
+permalink: "/portfolio/london-car-services/"
 date: '2018-09-01'
 header:
   teaser: /assets/images/portfolio/london_car_services/car-service.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/portfolio/london_car_services/wordpress_logo.png
+    image: /assets/images/portfolio/london_car_services/logo.png
     image_alt: "logo"
     text: "Web Developed"
   - title: "Technology used"
