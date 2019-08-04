@@ -37,6 +37,11 @@
         {{ author.bio }}
       </p>
     {% endif %}
+    {% if author.interests %}
+      <p class="author__bio" itemprop="description">
+        {{ author.interests }}
+      </p>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
