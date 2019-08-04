@@ -4,37 +4,21 @@ excerpt: "Set up and activily maintain a Wordpress website for a UK private tran
 permalink: "/portfolio/radio-bicocca-app/"
 date: '2018-09-01'
 header:
-  teaser: /assets/images/portfolio/london_car_services/car-service.gif
+  teaser: /assets/images/portfolio/london_car_services/car-service.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/portfolio/radio_bicocca_app/logo.gif
+    image: /assets/images/portfolio/london_car_services/wordpress_logo.png
     image_alt: "logo"
-    text: "Android Developer"
+    text: "Web Developed"
   - title: "Technology used"
-    text: "Android Studio, Firebase"
-gallery:
-  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
-    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_1.jpg
-    alt: "Radio Bicocca App Screenshot 1"
-  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_2.jpg
-    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_2.jpg
-    alt: "Radio Bicocca App Screenshot 2"
-  - url: /assets/images/portfolio/radio_bicocca_app/Screenshot_3.jpg
-    image_path: /assets/images/portfolio/radio_bicocca_app/Screenshot_3.jpg
-    alt: "Radio Bicocca App Screenshot 3"
+    text: "Wordpress, custom CSS3"
 ---
 
-[Radio Bicocca](http://www.radiobicocca.it/) it's the Web Radio of my University. You could listen to the radio just on their website but they didn't have an app, this motivated me to build an Android App that lets you listen to the University's radio.
-
-Back then I was also interested to learn how to develop Android apps. So, I started with a Google sample app, reading the code and try to figure out how the code worked.
-
-I spent my spare time for a couple month developing this app. When I got a working demo, I contacted a friend who was working at Radio Bicocca to get some feedback. With his feedback, I spent about three weeks to improve the app and then I came back with a new version with a better UI.
-
-{% include gallery caption="These are some of the app's screenshots." %}
+[London Car Services](https://londracarservices.com/) is an Italian company UK based; they are a private transport company arranging pickups at different London's airport. 
+I set up their Wordpress website following the required designed. In just a year they increased the profit of at least 40% with their new website.
 
 ## Features
-* You can, of course, listen live to the Radio stream
-* Logged in users can send messages on air
-* It's easy to read the blog posts of Radio Bicocca
+* Responsive design
+* Booking pickups and custom city tours
+* SEO optimized
 
-You can download [here](https://play.google.com/store/apps/details?id=com.radiobicocca.android) the free app.
