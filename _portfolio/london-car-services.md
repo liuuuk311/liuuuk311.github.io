@@ -4,12 +4,12 @@ excerpt: "Set up and activily maintain a Wordpress website for a UK private tran
 permalink: "/portfolio/london-car-services/"
 date: '2018-09-01'
 header:
-  teaser: /assets/images/portfolio/london_car_services/car-service.jpg
+  teaser: /assets/images/portfolio/london_car_services/logo.png
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/london_car_services/logo.png
     image_alt: "logo"
-    text: "Web Developed"
+    text: "Web Developer"
   - title: "Technology used"
     text: "Wordpress, custom CSS3"
 ---
