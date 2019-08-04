@@ -6,12 +6,3 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-.archive__item-teaser {
-    min-height: 120px;
-}
-
-.archive__item-teaser img {
-    vertical-align: middle;
-}
-
