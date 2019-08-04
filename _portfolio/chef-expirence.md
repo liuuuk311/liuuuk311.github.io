@@ -4,7 +4,7 @@ excerpt: "Built a BI dashboard for an UK startup"
 permalink: "/portfolio/chef-expirence/"
 date: '2019-06-01'
 header:
-  teaser: /assets/images/portfolio/chef_expirence/logo2.png
+  teaser: /assets/images/portfolio/chef_expirence/logo.png
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/chef_expirence/logo.png
