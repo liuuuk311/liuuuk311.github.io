@@ -7,16 +7,8 @@ I recently graduated in Computer Science, where I learned different subjects, su
 
 Coding has always been my passion, so I'm thrilled to help you out with your project. 
 
-During my career, I worked on several projects. Here are some of the most recent ones:
-* Designed a responsive website for a professional psychologist
-* Developed a script to scrape specific data from multiple sites
-* Developed custom Telegram bot for scraping newspapers articles and through AI get a summary of them
-* Set up a Wordpress website for a private transport company
-* Developed a Telegram bot for object detection & object recognition
-* Developed a RESTful API service using Node.js and MongoDB
-* Designed and implemented a beautiful looking BI dashboard for a UK startup
-
-If you want to know more about me or my past projects, please feel free to contact me or visit my LinkedIn profile.
+During my career, I worked on several projects. If you want to know more about my past projects, visit my portfolio page. 
+Please feel free to contact me or visit my LinkedIn profile, if you would like to have more info. 
 
 As you can see, I have a pretty broad skill set, and I'm always ready for new challenging projects.
 
