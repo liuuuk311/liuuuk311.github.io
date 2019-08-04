@@ -14,13 +14,13 @@ sidebar:
     text: "HTML5, custom CSS3"
 gallery:
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
-    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_1.jpg
+    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_1.png
     alt: "Homepage"
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_2.jpg
-    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_2.jpg
+    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_2.png
     alt: "Support us page"
   - url: /assets/images/portfolio/quinto_che_legge/Screenshot_3.jpg
-    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_3.jpg
+    image_path: /assets/images/portfolio/quinto_che_legge/Screenshot_3.png
     alt: "Contact us"
 ---
 *Warning: This is project is not public available anymore.* 
