@@ -2,9 +2,9 @@
 title: "Static website"
 excerpt: "Designed and developed a static website using HTML5 and CSS3 for an NGO."
 permalink: "/portfolio/quinto-che-legge/"
-date: '2018-03-01'
+date: '2017-11-01'
 header:
-  teaser: /assets/images/portfolio/quinto_che_legge/logo.png
+  teaser: /assets/images/portfolio/quinto_che_legge/archive_logo.png
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/quinto_che_legge/logo.png

@@ -4,7 +4,7 @@ excerpt: "An Android app to listen to my University's Radio"
 permalink: "/portfolio/radio-bicocca-app/"
 date: '2018-03-01'
 header:
-  teaser: /assets/images/portfolio/radio_bicocca_app/logo.gif
+  teaser: /assets/images/portfolio/radio_bicocca_app/archive_logo.png
 sidebar:
   - title: "Role"
     image: /assets/images/portfolio/radio_bicocca_app/logo.gif
